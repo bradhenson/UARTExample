@@ -8,7 +8,7 @@ License: USE AT YOUR OWN RISK
 - UART Library based on Patrick Hood-Daniel's examples at the NewbieHack website.
   https://www.newbiehack.com/
   https://www.youtube.com/watch?v=IFPPMpuVAJM
-
+- This is also in line with the code examples found in the Atmel 328p datasheet.
 ********************************************************************************/
 
 #define F_CPU 16000000UL
