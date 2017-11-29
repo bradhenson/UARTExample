@@ -1,5 +1,4 @@
 /********************************************************************************
-Author: Bradford Henson
 Date: 11/24/2017
 Version: 1.0.0
 License: USE AT YOUR OWN RISK
